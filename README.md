@@ -52,4 +52,4 @@ dotnet run -c Release --project DriverSelection.Benchmarks
 По результатам измерений алгоритм `TopFiveSearchAlgorithm` показал наименьшее
 среднее время выполнения на всех размерах тестовых данных.
 
-![Benchmark results](benchmark-results.png)
+![Benchmark results](benchmark-results.jpg)
