@@ -24,7 +24,7 @@
 dotnet run --project DriverSelection.Api
 ```
 
-Swagger доступен на `/swagger` в Development окружении.
+Swagger доступен на `/swagger` в Development и Release окружении.
 
 ## Тесты
 
