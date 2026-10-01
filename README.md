@@ -6,7 +6,7 @@
 
 - C#
 - ASP.NET Core Web API
-- .NET 10
+- .NET 10 (У меня не было .NET 6 установленного SDK в VS 2026 + уже устаревшая версия платформы)
 - NUnit
 - BenchmarkDotNet
 
